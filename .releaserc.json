@@ -35,7 +35,7 @@
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }]
   ],
-  "branches": ["master"],
+  "branches": ["main"],
   "repository": "git@github.com:stefan-vatov/auto-link-title-obsidian.git",
   "tagFormat": "${version}"
 }
