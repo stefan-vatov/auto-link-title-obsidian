@@ -1,0 +1,10 @@
+{
+  "id": "auto-link-title-obsidian",
+  "name": "Auto Link Title",
+  "version": "1.0.0",
+  "minAppVersion": "0.11.13",
+  "description": "A plugin to automatically fetch and add a title if a link is pasted.",
+  "author": "Stefan Vatov",
+  "authorUrl": "https://github.com/stefan-vatov",
+  "isDesktopOnly": true
+}
